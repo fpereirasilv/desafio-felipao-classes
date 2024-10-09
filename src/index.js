@@ -28,5 +28,5 @@ class Heroi{
    
 }
 
-const heroi1 = new Heroi('Arthur', 28, 'guerreiro');
+const heroi1 = new Heroi('Arthur', 28, 'mago');
 heroi1.atacar();
