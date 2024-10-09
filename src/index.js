@@ -23,8 +23,8 @@ class Heroi{
         default:
             ataque = 'ataque desconhecido';
         }
-    console.log(`O ${this.tipo} atacou usando ${ataque}.`);
-  }
+        console.log(`O ${this.tipo} atacou usando ${ataque}.`);
+    } 
    
 }
 
